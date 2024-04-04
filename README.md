@@ -17,35 +17,6 @@
 [기획 및 디자인 링크](https://www.figma.com/file/aTK27d8JGjSAp8qttQSwgy/Oh%2C-my-car-set_Handoff?type=design&node-id=0-1&mode=design&t=dQfXEfryUoqLUiNQ-0)
 
 <br>
-
-## 👦 팀원 소개
-<table style="border: 0.5px solid gray">
- <tr>
-    <td align="center"><a href="https://github.com/westofsky"><img src="https://avatars.githubusercontent.com/westofsky" width="130px;" alt=""></td>
-    <td align="center" style="border-right : 0.5px solid gray"><a href="https://github.com/JungHun98"><img src="https://avatars.githubusercontent.com/JungHun98" width="130px;" alt=""></td>
-    <td align="center"><a href="https://github.com/eigen98"><img src="https://avatars.githubusercontent.com/eigen98" width="130px;" alt=""></td>
-    <td align="center" style="border-right : 0.5px solid gray"><a href="https://github.com/sangyeon3"><img src="https://avatars.githubusercontent.com/sangyeon3" width="130px;" alt=""></td>
-    <td align="center"><a href="https://github.com/SEONMl"><img src="https://avatars.githubusercontent.com/SEONMl" width="130px;" alt=""></td>
-    <td align="center"><a href="https://github.com/jjy0709"><img src="https://avatars.githubusercontent.com/jjy0709" width="130px;" alt=""></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/westofsky"><b>배성준</b></td>
-    <td align="center"style="border-right : 0.5px solid gray"><a href="https://github.com/JungHun98" ><b>김정훈</b></td>
-    <td align="center"><a href="https://github.com/eigen98"><b>고정민</b></td>
-    <td align="center" style="border-right : 0.5px solid gray"><a href="https://github.com/sangyeon3"><b>변상연</b></td>
-    <td align="center"><a href="https://github.com/SEONMl"><b>박선미</b></td>
-    <td align="center" style="border-right : 0.5px solid gray"><a href="https://github.com/jjy0709" ><b>정지영</b></td>
-  </tr>
-
-  <tr>
-    <td align = "center" colspan = "2" style="border-right : 0.5px solid gray">FE</td>
-    <td align = "center" colspan = "2" style="border-right : 0.5px solid gray">IOS</td>
-    <td align = "center" colspan = "2">BE</td>
-  </tr>
-</table>
-<br/>
-
-
 ## 🛠️ 기술 스택
 
 ### iOS
